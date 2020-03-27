@@ -1,4 +1,4 @@
 # Python
 
-This is a repository  of my python projects
+This is a repository  of my Python projects
 
